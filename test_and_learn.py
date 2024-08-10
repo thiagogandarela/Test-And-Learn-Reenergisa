@@ -1,3 +1,5 @@
+##Executado no Google Collab
+
 #Manipulação de dados
 import pandas as pd
 
