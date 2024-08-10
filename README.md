@@ -1,6 +1,6 @@
 Crie um novo notebook no https://colab.research.google.com/
 
-Copie os codigos por blocos para rodar no notebook criado acima.
+Copie os codigos do arquivo .py por blocos para rodar no notebook criado acima.
 
 Exemplo:
 
